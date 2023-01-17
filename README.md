@@ -1,6 +1,4 @@
 # Simple-Spring-Boot-CRUD-Application
-(No GUI)
+CRUD REST API
 
-Простой CRUD REST API
-
-Использованные технологии: Java 17, Spring Boot (Web, Data JPA), Hebirnate, Lombok, postgreSQL, Postman (для проверки корректности приложения)
+Использованные технологии: Java 17, Spring Boot (Web, Data JPA), Hebirnate, Lombok, postgreSQL, Postman (для работы с API)
